@@ -104,4 +104,4 @@ Open index.html in any browser.
 
 Start editing cells or entering formulas in the formula bar.
 🔗 Links
-  Deployed Link: https://jayant1008.github.io/Excel_Clone/
+  Deployed Link: https://iiamit7.github.io/excel-clone/
